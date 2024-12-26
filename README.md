@@ -1,4 +1,4 @@
-# E-Shop E-cmmerce Application
+# E-Shop E-commerce Application
 
 ## Overview
 E-Shop a complete e-commerce system, built with React and Redux(frontend) and backend built with c# and .Net. It provides an intuitive interface for users to browse products, manage their cart, and place orders. The frontend communicates with the backend API to fetch product data, update cart items, and handle orders.
